@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ username }}'s GitHub Stats</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <div class="card">
+        <h1>{{ username }}'s GitHub Stats</h1>
+
+        <div class="stat">
+            <span>Total Stars Earned:</span><span>{{ total_stars }}</span>
+        </div>
+        <div class="stat">
+            <span>Total Commits ({{ current_year }}):</span><span>{{ total_commits }}</span>
+        </div>
+        <div class="stat">
+            <span>Total PRs:</span><span>{{ total_prs }}</span>
+        </div>
+        <div class="stat">
+            <span>Total Merged PRs:</span><span>{{ merged_prs }}</span>
+        </div>
+        <div class="stat">
+            <span>Merged PR Percentage:</span><span>{{ merged_pr_percentage }}%</span>
+        </div>
+        <div class="stat">
+            <span>PRs Reviewed:</span><span>{{ pr_reviewed }}</span>
+        </div>
+        <div class="stat">
+            <span>Total Issues:</span><span>{{ issues }}</span>
+        </div>
+        <div class="stat">
+            <span>Discussions Started:</span><span>{{ discussions_started }}</span>
+        </div>
+        <div class="stat">
+            <span>Discussions Answered:</span><span>{{ discussions_answered }}</span>
+        </div>
+        <div class="stat">
+            <span>Total Followers:</span><span>{{ total_followers }}</span>
+        </div>
+        <div class="stat">
+            <span>Total Following:</span><span>{{ total_following }}</span>
+        </div>
+        <div class="stat">
+            <span>Total Contributions:</span><span>{{ total_contributions }}</span>
+        </div>
+
+        <!-- Circle chart for rating -->
+        <div class="chart">
+            <div class="grade">{{ rating }}</div>
+        </div>
+    </div>
+
+</body>
+</html>
