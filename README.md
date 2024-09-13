@@ -10,6 +10,7 @@
 
 - [About](#about)
 - [Features](#features)
+- [Platforms Tested](#platforms-tested)
 - [Live Demo and Examples:](#live-demo-and-examples)
   - [Customization](#customization)
   - [Customization](#customization)
@@ -28,8 +29,13 @@
 - **Embed-Friendly**: Supports markdown embedding for GitHub profile readme files and other markdown-supported platforms.
 - **Responsive**: Dynamically adjusts to different screens and usage contexts.
 
-
-
+## Platforms Tested
+- [x] Web: Fully functional on major browsers like Chrome, Firefox, and Edge.
+- [x] Github Readme-md.
+- [x] Local Readme-md.
+- [x] Visual studio code readme preview.
+- [x] As an external image for any webstie.
+- [x] As an Iframe.
 
 ## Live Demo and Examples:
 
