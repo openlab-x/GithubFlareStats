@@ -13,7 +13,6 @@
 - [Platforms Tested](#platforms-tested)
 - [Live Demo and Examples:](#live-demo-and-examples)
   - [Customization](#customization)
-  - [Customization](#customization)
   - [Examples URLs](#examples-urls)
 - [Usage](#usage)
 - [Technology Stack](#technology-stack)
