@@ -4,12 +4,13 @@
 
 ## About
 
-**GithubFlareStats** is an open-source tool designed to generate dynamic, customizable images for displaying GitHub user statistics. It supports multiple themes and allows you to embed these stats into your GitHub profile README or any other markdown-supported platform. Display stars, commits, pull requests, issues, and much more in a visually appealing format. 
+**GithubFlareStats** is an open-source tool designed to generate dynamic, customizable images for displaying GitHub user statistics. It supports multiple themes and allows you to embed these stats into your GitHub profile README or any other markdown-supported platform. Display stars, commits, pull requests, issues, and much more in a visually appealing format. The versatility of this tool allows anybody to display their stats in the manner that they like
 
 ## Table of Contents
 
 - [About](#about)
 - [Features](#features)
+- [Getting Started](#getting-started)
 - [Platforms Tested](#platforms-tested)
 - [Live Demo and Examples:](#live-demo-and-examples)
   - [Customization](#customization)
@@ -18,6 +19,7 @@
 - [Technology Stack](#technology-stack)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
+- [Bug Reporting](#bug-reporting)
 - [License](#license)
 - [Contact](#contact)
 
@@ -27,6 +29,21 @@
 - **Customizable Themes**: Modify background, text, and card colors via URL parameters to match your profile style.
 - **Embed-Friendly**: Supports markdown embedding for GitHub profile readme files and other markdown-supported platforms.
 - **Responsive**: Dynamically adjusts to different screens and usage contexts.
+
+## Getting Started
+- **Dependencies**: Python3, Flask, Pillow<br/><br/>
+- First up, install flask and pillow
+```bash
+pip install flask
+pip install pillow
+```
+- Then, clone the repository and execute run.py
+```bash
+git clone [https://github.com](https://github.com/openlab-x/GithubFlareStats)
+cd GithubFlareStats
+python run.py
+```
+It is very important to make sure your libraries are updated to the latest version, as those are the versions used in this repository
 
 ## Platforms Tested
 - [x] Web: Fully functional on major browsers like Chrome, Firefox, and Edge.
@@ -82,7 +99,10 @@
   ```md
     ![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/your-username?response=image&bgColor=%23f0f0f0&textColor=%23000000&cardColor=%23d9e6f2&chartColor=%23007bff&chartTextColor=black))
   ```
-
+3. With a custom URL, your link will look like this.
+  ```md
+    ![GitHub Stats](https://[YOUR-URL].com/githubflarestats/api/gitfs.php/your-username?response=image))
+  ```
 
 ## Technology Stack
 - Backend: Python (Flask for serving the image generation)
@@ -91,6 +111,7 @@
 - Data Caching: Implemented to reduce API calls and cache images for 24 hours.
 - Proxy: PHP used as a lightweight proxy to route requests and manage caching.
 - Hosting: Deployed to a production-ready hosting environment.
+- Security: Software tested for common vulnerabilites, notably XSS and SQL Injection. You are safe to run this on your server!
 
 ## Contributing
  We welcome contributions! Here's how you can help:
@@ -113,6 +134,11 @@
 - All Contributors: Thanks to everyone who contributed to the project.
 - OpenLabX Team: Special thanks to the team for developing and maintaining the project.
 
+## Bug Reporting
+- If you find a bug in this project, please do not hesistate to reach out to our team
+- If you are feeling helpful, please consider fixing the bug and making a pull request
+- We give our greatest thanks to any people who report or fix bugs in this project
+  
 ## License
 This project is licensed under the [MIT license](LICENSE).
 
