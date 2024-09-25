@@ -40,10 +40,12 @@
 
 
   - **Light Mode - Live:**
+  - https://github.com/ajee10x
   - ![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/ajee10x?response=image&bgColor=%23ffffff&textColor=%23000000&cardColor=%23e1e1e1&chartColor=%23007bff&chartTextColor=black)
 
 
   - **Dark Mode - Live:**
+  - https://github.com/Alaa-abdulridha
   - ![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/Alaa-abdulridha?response=image&bgColor=%231e1e1e&textColor=%23f0f0f0&cardColor=%23333&chartColor=%23ff9800&chartTextColor=white)
 
 ### Customization
