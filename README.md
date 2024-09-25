@@ -80,10 +80,12 @@
 1. Replace ajee10x/torvalds with your GitHub username in the demo URL:
   ```md
     ![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/your-username?response=image))
+- [Made With GithubFlareStats](https://github.com/openlab-x/GithubFlareStats)
   ```
 2. Paste this link into your README or any markdown-supported content to showcase your GitHub stats.
   ```md
     ![GitHub Stats](https://openlabx.com/githubflarestats/api/gitfs.php/your-username?response=image&bgColor=%23f0f0f0&textColor=%23000000&cardColor=%23d9e6f2&chartColor=%23007bff&chartTextColor=black))
+- [Made With GithubFlareStats](https://github.com/openlab-x/GithubFlareStats)
   ```
 
 
