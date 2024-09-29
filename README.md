@@ -38,8 +38,8 @@ pip install flask
 pip install pillow
 ```
 - Then, clone the repository and execute run.py
-```bash
-git clone [https://github.com](https://github.com/openlab-x/GithubFlareStats)
+```cmd
+git clone https://github.com/openlab-x/GithubFlareStats.git
 cd GithubFlareStats
 python run.py
 ```
