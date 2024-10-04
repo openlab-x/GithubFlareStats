@@ -6,6 +6,23 @@
 
 **GithubFlareStats** ist ein Open-Source-Tool, das entwickelt wurde, um dynamische, anpassbare Bilder zur Anzeige von GitHub-Benutzerstatistiken zu erstellen. Es unterstützt mehrere Themes und ermöglicht es, diese Statistiken in dein GitHub-Profil-README oder auf andere markdown-unterstützte Plattformen einzubetten. Zeige Sterne, Commits, Pull Requests, Issues und vieles mehr in einem optisch ansprechenden Format. Die Vielseitigkeit dieses Tools erlaubt es jedem, seine Statistiken auf die gewünschte Weise darzustellen.
 
+### Du kannst dieses `README.md` in anderen Sprachen lesen
+
+| Verfügbarkeit  | Sprachen | Link | Letztes Update |
+| :---:  | :---: | :---: |  :---: |
+| ☑ | Englisch | [README.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README.md) | 04. Okt 2024 |
+| ☐ | Japanisch | [README_Ja.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ja.md) | 04. Okt 2024 |
+| ☐ | Koreanisch | [README_Ko.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ko.md) | 04. Okt 2024 |
+| ☐ | Chinesisch | [README_Zh.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Zh.md) | 04. Okt 2024 |
+| ☑ | Deutsch | [README_De.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_De.md) | 04. Okt 2024 |
+| ☐ | Spanisch | [README_Es.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Es.md) | 04. Okt 2024 |
+| ☐ | Arabisch | [README_Ar.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ae.md) | 04. Okt 2024 |
+| ☐ | Hebräisch | [README_He.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_He.md) | 04. Okt 2024 |
+| ☐ | Ukrainisch | [README_Uk.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Uk.md) | 04. Okt 2024 |
+| ☐ | Russisch | [README_Ru.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ru.md) | 04. Okt 2024 |
+
+
+
 ## Inhaltsverzeichnis
 
 - [Über](#über)
