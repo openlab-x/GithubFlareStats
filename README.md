@@ -16,7 +16,7 @@
 | ☐ | Chinese | [README_Zh.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Zh.md) | Oct 04, 2024 |
 | ☑ | German | [README_De.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_De.md) | Oct 04, 2024 |
 | ☐ | Spanish | [README_Es.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Es.md) | Oct 04, 2024 |
-| ☐ | العربية | [README_Ar.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ae.md) | Oct 04, 2024 |
+| ☑ | Arabic | [README_Ar.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ae.md) | Oct 04, 2024 |
 | ☐ | Hebrew | [README_He.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_He.md) | Oct 04, 2024 |
 | ☐ | Ukrainian | [README_Uk.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Uk.md) | Oct 04, 2024 |
 | ☐ | Russian | [README_Ru.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ru.md) | Oct 04, 2024 |
