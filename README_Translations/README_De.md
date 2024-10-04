@@ -146,7 +146,7 @@ Es ist sehr wichtig, sicherzustellen, dass deine Bibliotheken auf die neueste Ve
 - Wir danken allen herzlich, die Fehler melden oder beheben.
   
 ## Lizenz
-Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
+Dieses Projekt steht unter der [MIT-Lizenz](../LICENSE).
 
 ## Kontakt
 
