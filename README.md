@@ -159,7 +159,7 @@ In pursuit of innovation,
 **Follow Us:**
 
 <div align="center">
-<a href="https://www.instagram.com/openlabx_official/" target="_blank"><strong>Instagram</strong></a> |
+| <a href="https://www.instagram.com/openlabx_official/" target="_blank"><strong>Instagram</strong></a> |
 <a href="https://x.com/openlabx" target="_blank"><strong>X (formerly Twitter)</strong></a> |
 <a href="https://www.facebook.com/openlabx/" target="_blank"><strong>Facebook</strong></a> |
 <a href="https://www.youtube.com/@OpenLabX" target="_blank"><strong>YouTube</strong></a> |
