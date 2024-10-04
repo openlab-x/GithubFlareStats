@@ -177,7 +177,7 @@ python run.py
 
   
 ## الترخيص
-هذا المشروع مرخص بموجب [رخصة MIT](LICENSE/..).
+هذا المشروع مرخص بموجب [رخصة MIT](https://github.com/openlab-x/GithubFlareStats/blob/main/LICENSE).
 
 ## الاتصال
 
