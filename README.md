@@ -6,22 +6,6 @@
 
 **GithubFlareStats** is an open-source tool designed to generate dynamic, customizable images for displaying GitHub user statistics. It supports multiple themes and allows you to embed these stats into your GitHub profile README or any other markdown-supported platform. Display stars, commits, pull requests, issues, and much more in a visually appealing format. The versatility of this tool allows anybody to display their stats in the manner that they like
 
-### You can read this `README.md` in other languages
-
-| Availability  | Lanagues | Link | Last Update |
-| :---:  | :---: | :---: |  :---: |
-| ☑ | English | [README.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README.md) | Oct 04, 2024 |
-| ☐ | Japanese | [README_Ja.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ja.md) | Oct 04, 2024 |
-| ☐ | Korean | [README_Ko.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ko.md) | Oct 04, 2024 |
-| ☐ | Chinese | [README_Zh.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Zh.md) | Oct 04, 2024 |
-| ☑ | German | [README_De.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_De.md) | Oct 04, 2024 |
-| ☐ | Spanish | [README_Es.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Es.md) | Oct 04, 2024 |
-| ☑ | Arabic | [README_Ar.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ae.md) | Oct 04, 2024 |
-| ☐ | Hebrew | [README_He.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_He.md) | Oct 04, 2024 |
-| ☐ | Ukrainian | [README_Uk.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Uk.md) | Oct 04, 2024 |
-| ☐ | Russian | [README_Ru.md](https://github.com/openlab-x/GithubFlareStats/blob/main/README_Translations/README_Ru.md) | Oct 04, 2024 |
-
-
 
 ## Table of Contents
 
