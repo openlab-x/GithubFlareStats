@@ -151,7 +151,7 @@ This project is licensed under the [MIT license](LICENSE).
 
 ## Code of conduct
 
-We are committed to fostering an open and welcoming environment. All participants in this project are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT), which outlines our expectations for respectful behavior and the steps for reporting unacceptable conduct.
+We are committed to fostering an open and welcoming environment. All participants in this project are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md), which outlines our expectations for respectful behavior and the steps for reporting unacceptable conduct.
 
 ## Contact
 
