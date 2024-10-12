@@ -22,6 +22,7 @@
 - [Acknowledgments](#acknowledgments)
 - [Bug Reporting](#bug-reporting)
 - [License](#license)
+- [Code of Conduct](#code-of-conduct)
 - [Contact](#contact)
 
 ## Features
@@ -147,6 +148,10 @@ It is very important to make sure your libraries are updated to the latest versi
   
 ## License
 This project is licensed under the [MIT license](LICENSE).
+
+## Code of conduct
+
+We are committed to fostering an open and welcoming environment. All participants in this project are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT), which outlines our expectations for respectful behavior and the steps for reporting unacceptable conduct.
 
 ## Contact
 
