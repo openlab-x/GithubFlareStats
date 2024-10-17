@@ -1,6 +1,6 @@
 # GithubFlareStats
 
-![GitHub Stats](logo/logo_v1.png)
+![GitHub Stats](logo/logo_v1_0_2.png)
 
 ## About
 
