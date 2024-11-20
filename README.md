@@ -1,7 +1,8 @@
 # GithubFlareStats
 
 ![GitHub Stats](logo/logo_v1_0_2.png)
-
+![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=GithubFlareStats&theme=light)
+  - [Made With GitHubViewsCounter](https://github.com/openlab-x/GitHubViewsCounter)
 ## About
 
 **GithubFlareStats** is an open-source tool designed to generate dynamic, customizable images for displaying GitHub user statistics. It supports multiple themes and allows you to embed these stats into your GitHub profile README or any other markdown-supported platform. Display stars, commits, pull requests, issues, and much more in a visually appealing format. The versatility of this tool allows anybody to display their stats in the manner that they like
