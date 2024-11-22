@@ -1,13 +1,6 @@
-# GithubFlareStats ![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=GithubFlareStats&theme=dark)
+# GithubFlareStats   ![GitHubViewsCounter](https://openlabx.com/githubviewscounter/api/gitvcr.php?username=openlab-x&repository=GithubFlareStats&theme=dark) 
 
 
-
-
-
-<div align="center">
- 
-  <sub>- <a href="https://github.com/openlab-x/GitHubViewsCounter">Made With GitHubViewsCounter</a></sub>
-</div>
 
 
 
